@@ -1,7 +1,11 @@
 <script lang="ts">
-  export let className = "";
-  export let withBorderBottom = true;
-  export let withBorderTop = false;
+  type Props = {
+    className?: string;
+    withBorderBottom?: boolean;
+    withBorderTop?: boolean;
+  };
+
+  let { className = "", withBorderBottom = true, withBorderTop = false }: Props = $props();
 </script>
 
 <div class="relative w-full max-w-[1400px] mx-auto px-4 md:px-8 {className}">

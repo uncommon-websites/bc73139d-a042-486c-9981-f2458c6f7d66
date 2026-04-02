@@ -1,10 +1,14 @@
 <script lang="ts">
-  export let label: string;
-  export let title: string;
-  export let description: string;
-  export let linkText: string = "Learn more";
-  export let linkHref: string = "#";
-  export let reversed: boolean = false;
+  type Props = {
+    label: string;
+    title: string;
+    description: string;
+    linkText?: string;
+    linkHref?: string;
+    reversed?: boolean;
+  };
+
+  let { label, title, description, linkText = "Discover more", linkHref = "#", reversed = false }: Props = $props();
 </script>
 
 <div class="flex flex-col md:flex-row items-center gap-12 md:gap-20 py-16 md:py-24 border-b border-gray-200 border-dashed last:border-0">
@@ -19,7 +23,7 @@
     <p class="text-gray-500 leading-relaxed mb-8 max-w-md">
       {description}
     </p>
-    <a href={linkHref} class="text-[var(--color-primary-blue)] font-medium hover:underline text-sm">
+    <a href={linkHref} class="font-medium hover:underline text-sm" style="color: oklch(0.541 0.281 293.009);">
       {linkText}
     </a>
   </div>

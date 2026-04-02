@@ -5,20 +5,33 @@
 	--font-sans: "Inter", sans-serif;
 	--font-serif: "Playfair Display", serif;
 
-	/* Colors */
-	--color-gray-50: oklch(0.985 0.001 106.423);
-	--color-gray-100: oklch(0.97 0.001 106.424);
-	--color-gray-200: oklch(0.923 0.003 48.717);
-	--color-gray-300: oklch(0.869 0.005 56.366);
-	--color-gray-400: oklch(0.709 0.01 56.259);
-	--color-gray-500: oklch(0.553 0.013 58.071);
-	--color-gray-600: oklch(0.444 0.011 73.639);
-	--color-gray-700: oklch(0.374 0.01 67.558);
-	--color-gray-800: oklch(0.268 0.007 34.298);
-	--color-gray-900: oklch(0.216 0.006 56.043);
-	--color-gray-950: oklch(0.147 0.004 49.25);
+	/* Brand Gray Colors */
+	--color-gray-50: oklch(0.984 0.003 247.858);
+	--color-gray-100: oklch(0.968 0.007 247.896);
+	--color-gray-200: oklch(0.929 0.013 255.508);
+	--color-gray-300: oklch(0.869 0.022 252.894);
+	--color-gray-400: oklch(0.704 0.04 256.788);
+	--color-gray-500: oklch(0.554 0.046 257.417);
+	--color-gray-600: oklch(0.446 0.043 257.281);
+	--color-gray-700: oklch(0.372 0.044 257.287);
+	--color-gray-800: oklch(0.279 0.041 260.031);
+	--color-gray-900: oklch(0.208 0.042 265.755);
+	--color-gray-950: oklch(0.129 0.042 264.695);
 
-	--color-primary-blue: #10249F; /* Deep Royal Blue */
+	/* Brand Primary Colors (Purple/Violet) */
+	--color-primary-50: oklch(0.969 0.016 293.756);
+	--color-primary-100: oklch(0.943 0.029 294.588);
+	--color-primary-200: oklch(0.894 0.057 293.283);
+	--color-primary-300: oklch(0.811 0.111 293.571);
+	--color-primary-400: oklch(0.702 0.183 293.541);
+	--color-primary-500: oklch(0.606 0.25 292.717);
+	--color-primary-600: oklch(0.541 0.281 293.009);
+	--color-primary-700: oklch(0.491 0.27 292.581);
+	--color-primary-800: oklch(0.432 0.232 292.759);
+	--color-primary-900: oklch(0.38 0.189 293.745);
+	--color-primary-950: oklch(0.283 0.141 291.089);
+
+	--color-primary-blue: oklch(0.491 0.27 292.581); /* Primary brand violet */
 	--color-bg-light: #F9F9F9;
 }
 

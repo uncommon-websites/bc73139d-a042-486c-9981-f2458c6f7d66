@@ -7,13 +7,13 @@
     <!-- Text -->
     <div class="w-full md:w-1/2">
       <h2 class="font-serif text-3xl md:text-4xl text-gray-900 mb-6">
-        Enterprise security as standard
+        Privacy-first architecture as standard
       </h2>
-      <p class="text-gray-500 mb-2">Privacy. Security. Peace of mind.</p>
-      <p class="text-gray-500 mb-2">Never used for training.</p>
-      <p class="text-gray-500 mb-8">Round the clock enterprise security.</p>
+      <p class="text-gray-500 mb-2">Your data. Your digital mind. Your control.</p>
+      <p class="text-gray-500 mb-2">Never shared, sold, or used to train other models.</p>
+      <p class="text-gray-500 mb-8">Enterprise-grade encryption protecting every clone, around the clock.</p>
       
-      <a href="#" class="text-[var(--color-primary-blue)] font-medium hover:underline text-sm">
+      <a href="#" class="font-medium hover:underline text-sm" style="color: oklch(0.541 0.281 293.009);">
         Learn more
       </a>
     </div>

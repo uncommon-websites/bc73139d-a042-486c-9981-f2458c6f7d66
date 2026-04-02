@@ -5,7 +5,7 @@
 <div class="bg-black text-white py-24 px-4 md:px-8 max-w-[1400px] mx-auto relative">
     <div class="px-4 md:px-12 flex flex-col md:flex-row items-center justify-between gap-8">
         <h2 class="font-serif text-3xl md:text-4xl">
-            Unlock your advice firm
+            Scale your wisdom with Delphi
         </h2>
         
         <a href="#" class="inline-flex items-center px-6 py-3 bg-gray-800 border border-gray-700 text-white font-medium rounded hover:bg-gray-700 transition-colors">
@@ -19,13 +19,13 @@
         <!-- Top Row -->
         <div class="flex flex-col md:flex-row justify-between items-start md:items-center border-b border-gray-200 border-dashed pb-12 mb-12">
             <div class="text-xs text-gray-500 mb-4 md:mb-0">
-                contact@heysaturn.com
+                hello@withdelphi.com
             </div>
             
             <div class="flex space-x-6 text-xs text-gray-500 font-medium">
-                <a href="#" class="hover:text-gray-900">Journal</a>
+                <a href="#" class="hover:text-gray-900">Blog</a>
                 <a href="#" class="hover:text-gray-900">Security</a>
-                <a href="#" class="hover:text-gray-900">Customers</a>
+                <a href="#" class="hover:text-gray-900">Creators</a>
                 <a href="#" class="hover:text-gray-900">About Us</a>
             </div>
         </div>
@@ -33,11 +33,11 @@
         <!-- Bottom Row -->
         <div class="flex flex-col md:flex-row justify-between items-start md:items-center text-[10px] text-gray-400">
             <div class="mb-4 md:mb-0">
-                ©2025, All right reserved.
+                ©2025, All rights reserved.
             </div>
             
             <div class="mb-4 md:mb-0">
-                Saturn Fintech Ltd, 8 Devonshire Square, EC2M 4YJ
+                Delphi AI Inc., United States
             </div>
             
             <div class="flex space-x-4">
